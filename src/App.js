@@ -17,6 +17,7 @@ function App() {
         >
           Learn React!
         </a>
+        <h3>This Portfolio is Brought to You By Dearest Ativie</h3>
       </header>
     </div>
   );
